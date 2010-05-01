@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <Placemark>
+      <name>Blue Fin Sushi</name>
+      <Point>
+        <coordinates>-122.478712,37.782421</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Cellar</name>
+      <Point>
+        <coordinates>-122.411488,37.788721</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hyde Street Seafood House and Raw Bar</name>
+      <Point>
+        <coordinates>-122.4183,37.794693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kyo-Ya</name>
+      <Point>
+        <coordinates>-122.40191,37.788432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>McCormick and Kuleto's</name>
+      <Point>
+        <coordinates>-122.374599,37.82999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nook</name>
+      <Point>
+        <coordinates>-122.418032,37.794671</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roots Restaurant</name>
+      <Point>
+        <coordinates>-122.40514,37.790757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charanga</name>
+      <Point>
+        <coordinates>-122.418958,37.759424</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Rio</name>
+      <Point>
+        <coordinates>-122.419381,37.746657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tsunami Mission Bay</name>
+      <Point>
+        <coordinates>-122.393918,37.776099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palio d'Asti</name>
+      <Point>
+        <coordinates>-122.403536,37.793859</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sugar Lounge</name>
+      <Point>
+        <coordinates>-122.422152,37.776845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5A5 Steak Lounge</name>
+      <Point>
+        <coordinates>-122.399993,37.796928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blowfish Sushi to Die For</name>
+      <Point>
+        <coordinates>-122.41009,37.75961</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Alembic</name>
+      <Point>
+        <coordinates>-122.451042,37.769335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Toro Taqueria</name>
+      <Point>
+        <coordinates>-122.421925,37.763464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mojito</name>
+      <Point>
+        <coordinates>-122.407436,37.799127</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hing Lung Restaurant</name>
+      <Point>
+        <coordinates>-122.408142,37.797853</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Umami</name>
+      <Point>
+        <coordinates>-122.434034,37.797439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blur</name>
+      <Point>
+        <coordinates>-122.420117,37.787114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amarena</name>
+      <Point>
+        <coordinates>-122.420249,37.797704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kennedy's Irish Pub and Curry House</name>
+      <Point>
+        <coordinates>-122.415538,37.804197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maya</name>
+      <Point>
+        <coordinates>-122.396041,37.785199</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tonga Room</name>
+      <Point>
+        <coordinates>-122.410723,37.792325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joe DiMaggio's</name>
+      <Point>
+        <coordinates>-122.409233,37.800375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Epic Roasthouse</name>
+      <Point>
+        <coordinates>-122.38936,37.790564</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Tavern</name>
+      <Point>
+        <coordinates>-122.435826,37.799032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acme Burgerhaus</name>
+      <Point>
+        <coordinates>-122.437876,37.774565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Ambassador</name>
+      <Point>
+        <coordinates>-122.414231,37.786505</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
